@@ -1,0 +1,5 @@
+name: CoreMain
+main: playek.core.CoreMain
+api: 1.0.0
+version: 1.0-SNAPSHOT
+author: Playek
